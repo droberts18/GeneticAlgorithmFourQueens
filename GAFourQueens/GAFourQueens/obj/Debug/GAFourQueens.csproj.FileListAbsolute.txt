@@ -1,0 +1,6 @@
+C:\Users\Drew Roberts\Desktop\GAFourQueens\GAFourQueens\bin\Debug\GAFourQueens.exe.config
+C:\Users\Drew Roberts\Desktop\GAFourQueens\GAFourQueens\bin\Debug\GAFourQueens.exe
+C:\Users\Drew Roberts\Desktop\GAFourQueens\GAFourQueens\bin\Debug\GAFourQueens.pdb
+C:\Users\Drew Roberts\Desktop\GAFourQueens\GAFourQueens\obj\Debug\GAFourQueens.csprojResolveAssemblyReference.cache
+C:\Users\Drew Roberts\Desktop\GAFourQueens\GAFourQueens\obj\Debug\GAFourQueens.exe
+C:\Users\Drew Roberts\Desktop\GAFourQueens\GAFourQueens\obj\Debug\GAFourQueens.pdb
